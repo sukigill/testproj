@@ -1,2 +1,3 @@
 my test file
 line 1
+feature 1
