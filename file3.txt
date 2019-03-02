@@ -1,2 +1,3 @@
 file3 min
 added 5.1e
+added 5.2.
